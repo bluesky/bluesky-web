@@ -105,3 +105,9 @@ _Description._
 
 #### Notes
 TBA
+
+## WASM Output from General GUI Libraries
+
+### [WebGui]([url](https://github.com/jnmaloney/WebGui)) (IMGUI)
+
+_An example project showing how to use [Dear ImGui]([url](https://github.com/ocornut/imgui)https://github.com/ocornut/imgui) in a web browser_
