@@ -20,6 +20,19 @@ _TypeScript React app using Material UI for a Bluesky queueserver client. A prot
 #### Notes
 * Project repo: [bluesky/bluesky-webclient](https://github.com/bluesky/bluesky-webclient)
 
+### CS Web
+
+_React-based prototype to display control system data on web pages; and an npm library for Control Systems web applications._
+
+| Pros | Cons |
+| --- | --- |
+| TBA | TBA |
+
+#### Notes
+* Project repos:
+    * [dls-controls/cs-web-proto](https://github.com/dls-controls/cs-web-proto)
+    * [dls-controls/cs-web-lib](https://github.com/dls-controls/cs-web-lib)
+
 ### Daiquiri UI
 
 _Daiquiri UI is the web based javascript User Interface for [Daiquiri](https://gitlab.esrf.fr/ui/daiquiri), the beamline control and data acquisition framework. It is built in React with Redux and is modular in design, allowing it to be adapted to many different beamline setups and requirements._
